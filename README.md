@@ -36,4 +36,4 @@ Versioned artifact storage in S3
 
 Deployment to EC2 with CodeDeploy
 
-Easily customizable for containerized workflowsREADME File
+Easily customizable for containerized workflows
